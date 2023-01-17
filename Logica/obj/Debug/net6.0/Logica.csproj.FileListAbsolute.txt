@@ -1,0 +1,78 @@
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Logica.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Logica.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Modelos.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Repositorio.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Modelos.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\bin\Debug\net6.0\Repositorio.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.deps.json
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Modelos.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Repositorio.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\refint\Logica.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\obj\Debug\net6.0\ref\Logica.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.deps.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.runtimeconfig.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Logica.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Repositorio.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Modelos.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\bin\Debug\net6.0\Repositorio.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\refint\Logica.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\Logica.genruntimeconfig.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Logica\obj\Debug\net6.0\ref\Logica.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Logica\bin\Debug\net6.0\Constants.pdb

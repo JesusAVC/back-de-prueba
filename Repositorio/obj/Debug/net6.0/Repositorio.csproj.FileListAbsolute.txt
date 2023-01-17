@@ -1,0 +1,70 @@
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\bin\Debug\net6.0\Modelos.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\bin\Debug\net6.0\Modelos.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Modelos.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Repositorio\bin\Debug\net6.0\Constants.pdb

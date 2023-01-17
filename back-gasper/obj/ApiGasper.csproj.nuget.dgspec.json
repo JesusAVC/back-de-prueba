@@ -1,0 +1,521 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\back-gasper\\ApiGasper.csproj": {}
+  },
+  "projects": {
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\back-gasper\\ApiGasper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\back-gasper\\ApiGasper.csproj",
+        "projectName": "ApiGasper",
+        "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\back-gasper\\ApiGasper.csproj",
+        "packagesPath": "C:\\Users\\Jesus192\\.nuget\\packages\\",
+        "outputPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\back-gasper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesus192\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Logica\\Logica.csproj": {
+                "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Logica\\Logica.csproj"
+              },
+              "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Utilitarios\\Utilitarios.csproj": {
+                "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Utilitarios\\Utilitarios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Contants\\Constants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Contants\\Constants.csproj",
+        "projectName": "Constants",
+        "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Contants\\Constants.csproj",
+        "packagesPath": "C:\\Users\\Jesus192\\.nuget\\packages\\",
+        "outputPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Contants\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesus192\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Logica\\Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Logica\\Logica.csproj",
+        "projectName": "Logica",
+        "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Logica\\Logica.csproj",
+        "packagesPath": "C:\\Users\\Jesus192\\.nuget\\packages\\",
+        "outputPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Logica\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesus192\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj": {
+                "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj"
+              },
+              "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Repositorio\\Repositorio.csproj": {
+                "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Repositorio\\Repositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj",
+        "projectName": "Modelos",
+        "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj",
+        "packagesPath": "C:\\Users\\Jesus192\\.nuget\\packages\\",
+        "outputPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesus192\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Contants\\Constants.csproj": {
+                "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Contants\\Constants.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Repositorio\\Repositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Repositorio\\Repositorio.csproj",
+        "projectName": "Repositorio",
+        "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Repositorio\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Jesus192\\.nuget\\packages\\",
+        "outputPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Repositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesus192\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj": {
+                "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Modelos\\Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Utilitarios\\Utilitarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Utilitarios\\Utilitarios.csproj",
+        "projectName": "Utilitarios",
+        "projectPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Utilitarios\\Utilitarios.csproj",
+        "packagesPath": "C:\\Users\\Jesus192\\.nuget\\packages\\",
+        "outputPath": "D:\\sexto semestre\\Backend de gasper tienda rapida\\Back_End_Gasper\\Utilitarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jesus192\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

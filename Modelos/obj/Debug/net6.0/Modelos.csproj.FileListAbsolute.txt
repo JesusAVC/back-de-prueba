@@ -1,0 +1,59 @@
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+C:\TrabajosVisualEstudio2022\back-gasper\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.deps.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.deps.json
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.runtimeconfig.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.genruntimeconfig.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\bin\Debug\net6.0\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\bin\Debug\net6.0\Constants.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Modelos\obj\Debug\net6.0\Modelos.csproj.CopyComplete

@@ -1,0 +1,399 @@
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\appsettings.Development.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\appsettings.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\ApiGasper.exe
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\ApiGasper.deps.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\ApiGasper.runtimeconfig.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\ApiGasper.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\ApiGasper.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Azure.Core.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Azure.Identity.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Humanizer.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.CodeDom.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Memory.Data.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Text.Json.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Logica.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Modelos.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Repositorio.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Logica.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Modelos.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\bin\Debug\net6.0\Repositorio.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.AssemblyReference.cache
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfoInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfo.cs
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CoreCompileInputs.cache
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cs
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cache
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.ApiGasper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGasper.props
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGasper.props
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGasper.props
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets.build.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\staticwebassets.development.json
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\scopedcss\bundle\ApiGasper.styles.css
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CopyComplete
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\refint\ApiGasper.dll
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.pdb
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ApiGasper.genruntimeconfig.cache
+C:\TrabajosVisualEstudio2022\back-gasper\back-gasper\obj\Debug\net6.0\ref\ApiGasper.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\appsettings.Development.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\appsettings.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.exe
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.deps.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.runtimeconfig.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Azure.Core.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Azure.Identity.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Humanizer.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.CodeDom.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Memory.Data.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Text.Json.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Logica.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Modelos.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Repositorio.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Logica.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Modelos.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Repositorio.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.AssemblyReference.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.GeneratedMSBuildEditorConfig.editorconfig
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfoInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfo.cs
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CoreCompileInputs.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cs
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.ApiGasper.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGasper.props
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGasper.props
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGasper.props
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.pack.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.build.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.development.json
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\scopedcss\bundle\ApiGasper.styles.css
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CopyComplete
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\refint\ApiGasper.dll
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.pdb
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.genruntimeconfig.cache
+D:\sexto semestre\Backend de gasper tienda rapida\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ref\ApiGasper.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\appsettings.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.exe
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.deps.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.runtimeconfig.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Azure.Core.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Azure.Identity.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Humanizer.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.CodeDom.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Text.Json.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Logica.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Modelos.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Repositorio.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Logica.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Modelos.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Repositorio.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.AssemblyReference.cache
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfoInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfo.cs
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CoreCompileInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cs
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.ApiGasper.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGasper.props
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGasper.props
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGasper.props
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\scopedcss\bundle\ApiGasper.styles.css
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CopyComplete
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\refint\ApiGasper.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.genruntimeconfig.cache
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ref\ApiGasper.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\appsettings.Development.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\appsettings.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.exe
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.deps.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.runtimeconfig.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\ApiGasper.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Azure.Core.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Azure.Identity.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Humanizer.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.CodeDom.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Memory.Data.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Text.Json.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Logica.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Modelos.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Repositorio.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Logica.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Modelos.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Repositorio.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.AssemblyReference.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.GeneratedMSBuildEditorConfig.editorconfig
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfoInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.AssemblyInfo.cs
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CoreCompileInputs.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cs
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.MvcApplicationPartsAssemblyInfo.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.build.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\staticwebassets.development.json
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\scopedcss\bundle\ApiGasper.styles.css
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.csproj.CopyComplete
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\refint\ApiGasper.dll
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.pdb
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ApiGasper.genruntimeconfig.cache
+C:\6to semestre\proyectoproceso\ProyectosInsti\Back_End_Gasper\back-gasper\obj\Debug\net6.0\ref\ApiGasper.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\back-gasper\bin\Debug\net6.0\Constants.pdb

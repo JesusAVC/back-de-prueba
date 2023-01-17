@@ -1,0 +1,12 @@
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\bin\Debug\net6.0\Constants.deps.json
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\bin\Debug\net6.0\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\bin\Debug\net6.0\Constants.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.csproj.AssemblyReference.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.AssemblyInfoInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.AssemblyInfo.cs
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.csproj.CoreCompileInputs.cache
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\refint\Constants.dll
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\Constants.pdb
+D:\Proyectos\proyectos\Back_End_Gasper\Contants\obj\Debug\net6.0\ref\Constants.dll
